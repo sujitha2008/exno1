@@ -36,7 +36,8 @@ STEP 6: Use zscore of to remove outliers
 <img width="940" height="627" alt="Screenshot 2026-07-26 225912" src="https://github.com/user-attachments/assets/c25cc663-fa54-4cfd-97eb-d8934c7e47da" />
 <img width="1021" height="180" alt="Screenshot 2026-07-26 225936" src="https://github.com/user-attachments/assets/b103cfcb-dfb7-4975-b7e8-65293fa7fb77" />
 <img width="896" height="202" alt="Screenshot 2026-07-26 225950" src="https://github.com/user-attachments/assets/264c56af-8abb-4ea3-9dda-4491b590388d" />
-<img width="877" height="336" alt="Screenshot 2026-07-26 225957" src="https://github.com/user-attachments/assets/c8282ad6-f36a-4a12-9849-8c433dc38a86" />
+<img width="877" height="336" alt="Screenshot 2026-07-26 225957" src="https://github.com/user-attachments/assets/c8282ad6-f36a-4a12-9849-8c433dc38a86" /> 
+<img width="1076" height="646" alt="image" src="https://github.com/user-attachments/assets/799c1ee1-24fb-4acd-9a63-4836f7521a8b" />
 <img width="740" height="373" alt="Screenshot 2026-07-26 230046" src="https://github.com/user-attachments/assets/b36caaa2-3929-43e2-a3f6-ec594464cf9f" />
 <img width="922" height="396" alt="Screenshot 2026-07-26 230052" src="https://github.com/user-attachments/assets/e5c1bea4-7828-4709-a9e4-bfe2c2113646" />
 
