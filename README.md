@@ -33,6 +33,14 @@ STEP 6: Use zscore of to remove outliers
 <img width="1067" height="755" alt="Screenshot 2026-07-26 225703" src="https://github.com/user-attachments/assets/4465fc01-896f-4143-a1c0-9067c088dbe8" />
 <img width="1146" height="757" alt="Screenshot 2026-07-26 225716" src="https://github.com/user-attachments/assets/c79e878e-dc79-438b-864c-d61cfe183174" />
 <img width="906" height="407" alt="Screenshot 2026-07-26 225857" src="https://github.com/user-attachments/assets/9677b75a-213e-49e7-bc5e-c017d8f1285d" />
-
+<img width="940" height="627" alt="Screenshot 2026-07-26 225912" src="https://github.com/user-attachments/assets/c25cc663-fa54-4cfd-97eb-d8934c7e47da" />
+<img width="940" height="627" alt="Screenshot 2026-07-26 225912" src="https://github.com/user-attachments/assets/bbfaaf77-aa76-4599-a053-279c1fed736f" />
+<img width="947" height="667" alt="Screenshot 2026-07-26 230112" src="https://github.com/user-attachments/assets/1889fc50-0134-4c4b-a958-0a73e5fe668a" />
+<img width="902" height="653" alt="Screenshot 2026-07-26 230121" src="https://github.com/user-attachments/assets/5cc5bf4d-aaac-4b27-ab05-c444b19ad3f3" />
+<img width="1021" height="180" alt="Screenshot 2026-07-26 225936" src="https://github.com/user-attachments/assets/b103cfcb-dfb7-4975-b7e8-65293fa7fb77" />
+<img width="896" height="202" alt="Screenshot 2026-07-26 225950" src="https://github.com/user-attachments/assets/264c56af-8abb-4ea3-9dda-4491b590388d" />
+<img width="877" height="336" alt="Screenshot 2026-07-26 225957" src="https://github.com/user-attachments/assets/c8282ad6-f36a-4a12-9849-8c433dc38a86" />
+<img width="740" height="373" alt="Screenshot 2026-07-26 230046" src="https://github.com/user-attachments/assets/b36caaa2-3929-43e2-a3f6-ec594464cf9f" />
+<img width="922" height="396" alt="Screenshot 2026-07-26 230052" src="https://github.com/user-attachments/assets/e5c1bea4-7828-4709-a9e4-bfe2c2113646" />
 # Result
-          <<include your Result here>>
+Thus the given data successfully performed data cleaning and saved the cleaned data to a file.
