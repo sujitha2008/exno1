@@ -39,5 +39,6 @@ STEP 6: Use zscore of to remove outliers
 <img width="877" height="336" alt="Screenshot 2026-07-26 225957" src="https://github.com/user-attachments/assets/c8282ad6-f36a-4a12-9849-8c433dc38a86" />
 <img width="740" height="373" alt="Screenshot 2026-07-26 230046" src="https://github.com/user-attachments/assets/b36caaa2-3929-43e2-a3f6-ec594464cf9f" />
 <img width="922" height="396" alt="Screenshot 2026-07-26 230052" src="https://github.com/user-attachments/assets/e5c1bea4-7828-4709-a9e4-bfe2c2113646" />
+
 # Result
 Thus the given data successfully performed data cleaning and saved the cleaned data to a file.
